@@ -7,7 +7,7 @@ ORG_NAME="MARSM"
 ORG_URL="https://sfqbfoundation.github.io"
 ORG_DESCRIPTION="MarsM is a visionary project developed on the Stellar network — focused on extracting and tokenizing."
 
-ORG_LOGO=""
+ORG_LOGO="https://sfqbfoundation.github.io/marsm/marsm.png"
 
 [[CURRENCIES]]
 code="MARSM"
@@ -17,4 +17,4 @@ display_decimals=2
 issuer="GBL27HDAR7QOPYDOVGLYF3JG5WZ2IKX2633GRFGW43JTVBAPZM6KO5IG"
 anchor_asset_type="crypto"
 desc="MarsM is a visionary project developed on the Stellar network — focused on extracting and tokenizing."
-image=""
+image="https://sfqbfoundation.github.io/marsm/marsm.png"
